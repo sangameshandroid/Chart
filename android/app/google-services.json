@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "653629473547",
+    "firebase_url": "https://chart-a7076-default-rtdb.firebaseio.com",
+    "project_id": "chart-a7076",
+    "storage_bucket": "chart-a7076.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653629473547:android:1b065f3eaf1fac84d8980e",
+        "android_client_info": {
+          "package_name": "com.example.chart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzJlAbLYRz1S4RddTZj4eGTdzAEa4KyNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
